@@ -1,0 +1,16 @@
+C:\Users\verio\Desktop\coding\Exercises\5-1\bin\Debug\net6.0-windows\5-1.exe
+C:\Users\verio\Desktop\coding\Exercises\5-1\bin\Debug\net6.0-windows\5-1.deps.json
+C:\Users\verio\Desktop\coding\Exercises\5-1\bin\Debug\net6.0-windows\5-1.runtimeconfig.json
+C:\Users\verio\Desktop\coding\Exercises\5-1\bin\Debug\net6.0-windows\5-1.dll
+C:\Users\verio\Desktop\coding\Exercises\5-1\bin\Debug\net6.0-windows\5-1.pdb
+C:\Users\verio\Desktop\coding\Exercises\5-1\obj\Debug\net6.0-windows\_5_1.Form1.resources
+C:\Users\verio\Desktop\coding\Exercises\5-1\obj\Debug\net6.0-windows\5-1.vbproj.GenerateResource.cache
+C:\Users\verio\Desktop\coding\Exercises\5-1\obj\Debug\net6.0-windows\5-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\verio\Desktop\coding\Exercises\5-1\obj\Debug\net6.0-windows\5-1.AssemblyInfoInputs.cache
+C:\Users\verio\Desktop\coding\Exercises\5-1\obj\Debug\net6.0-windows\5-1.AssemblyInfo.vb
+C:\Users\verio\Desktop\coding\Exercises\5-1\obj\Debug\net6.0-windows\5-1.vbproj.CoreCompileInputs.cache
+C:\Users\verio\Desktop\coding\Exercises\5-1\obj\Debug\net6.0-windows\5-1.dll
+C:\Users\verio\Desktop\coding\Exercises\5-1\obj\Debug\net6.0-windows\refint\5-1.dll
+C:\Users\verio\Desktop\coding\Exercises\5-1\obj\Debug\net6.0-windows\5-1.pdb
+C:\Users\verio\Desktop\coding\Exercises\5-1\obj\Debug\net6.0-windows\5-1.genruntimeconfig.cache
+C:\Users\verio\Desktop\coding\Exercises\5-1\obj\Debug\net6.0-windows\ref\5-1.dll
